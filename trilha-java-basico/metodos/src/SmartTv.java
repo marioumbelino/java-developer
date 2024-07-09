@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class SmartTv {
     boolean estado=false;
     int canal = 1;
